@@ -1,0 +1,1 @@
+print("Hello JoBo OCR Digital Journal!")
