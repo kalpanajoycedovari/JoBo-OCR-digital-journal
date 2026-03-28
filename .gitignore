@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+jobo_journal.db
+uploads/
+outputs/
+.streamlit/secrets.toml
